@@ -18,7 +18,7 @@ public class HelloJava3 extends JFrame {
 
     public HelloJava3() {
         super( "HelloJava3" );
-        add( new HelloComponent3("Hello, Inner Java!") );
+        add( new HelloComponent3("Hello, Inner Java From Quang!") );
         setDefaultCloseOperation( JFrame.EXIT_ON_CLOSE );
         setSize( 300, 300 );
     }
